@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "statusMessage": "Checking Bash command for build-brief",
+            "command": "python3 ./scripts/pretooluse-build-brief.py"
+          }
+        ]
+      }
+    ]
+  }
+}

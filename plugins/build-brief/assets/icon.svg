@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="build-brief icon variant A">
+  <rect width="1024" height="1024" rx="216" fill="#0f172a"/>
+  <rect x="206" y="304" width="330" height="72" rx="36" fill="#38bdf8"/>
+  <rect x="206" y="476" width="260" height="72" rx="36" fill="#38bdf8"/>
+  <rect x="206" y="648" width="190" height="72" rx="36" fill="#38bdf8"/>
+  <path d="M596 266 822 512 596 758 526 688 688 512 526 336Z" fill="#fbbf24"/>
+  <path d="m666 518 56 56 118-142 54 50-170 204-112-112Z" fill="#0f172a"/>
+</svg>
